@@ -15,7 +15,7 @@ namespace ContactManager.Services
                 new Contact
                 {
                     Id = 1,
-                    Name = "Glenn Block"
+                    Name = "John Block"
                 },
                 new Contact
                 {
